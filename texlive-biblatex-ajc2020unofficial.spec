@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-ajc2020unofficial
 Version:	54401
-Release:	1
+Release:	2
 Summary:	BibLaTeX style for the Australasian Journal of Combinatorics
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-ajc2020unofficial
