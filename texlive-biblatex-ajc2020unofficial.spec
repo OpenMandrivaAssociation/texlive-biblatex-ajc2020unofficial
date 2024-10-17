@@ -3,7 +3,7 @@ Version:	54401
 Release:	2
 Summary:	BibLaTeX style for the Australasian Journal of Combinatorics
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-ajc2020unofficial
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-ajc2020unofficial
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-ajc2020unofficial.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-ajc2020unofficial.doc.r%{version}.tar.xz
